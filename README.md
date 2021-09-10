@@ -22,6 +22,9 @@ In today’s day and age we observe that a house is empty for upwards of 10 hour
 ## Persona 2: Families   
 IOFresh would be a great addition to people and families that like to entertain. The Air Freshener aspect of IOFresh provides a way to set the atmosphere for a gathering or a party by infusing the air with pleasant aromas. 
 
+# Simulation 
+You can try our arduino simulation on tinkercad. The link to our simulation can be found [here](https://www.tinkercad.com/things/bUrlJmCXl2o)
+
 # Contents Of the Repository:
    1) Board Schematic Made using Autodesk Eagle
    2) 3D modelled Images of IOFRESH made Using Fusion 360
