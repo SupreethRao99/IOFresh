@@ -21,4 +21,7 @@ Persona 2: Families
    >IOFresh would be a great addition to people and families that like to entertain. The Air Freshener aspect of IOFresh provides a way to set the atmosphere for a gathering or a     party by infusing the air with pleasant aromas. 
 
 Contents Of the Repository:
-   
+   1) Board Schematic Made using Eagle
+   2) 3D modelled Images of IOFRESH made Using Fusion 360
+   3) IO-FRESH arduino code used for simulation in tinkercad
+   4) Specification/Features.docx
