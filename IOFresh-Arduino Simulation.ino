@@ -25,19 +25,11 @@ int LED_RED = 4;
 const int PIN_GAS = A1; 
 const int buttonPin = 8;
 
-// Initializing the buttonState to 0 (LOW)
-int buttonState = 0;
 
-/* Use a millisecond timer to keep track of time.
-It is used to spray the air fresener at predetermined
-intervals as chosen by the user.
-*/
-unsigned long startMillis; 
-
-/* 5 second delay is used for demonstartation purpose,
+int buttonState = 0; // Initializing the buttonState to 0 (LOW)
+unsigned long startMillis; //Use a millisecond timer to keep track of time. It is used to spray the air freshner at pre-determined user assigned time intervals.
+unsigned long myDelay = 5000;  // 5 second delay is used for demonstartation purpose,
  change as needed
-*/
-unsigned long myDelay = 5000;
 
 void setup()
 {
@@ -108,10 +100,3 @@ void loop()
 
 
 
-  /*if(sensorRead>60)
-    {
-      myservo.write(50);
-      delay(100);
-      myservo.write(0);
-    }
-  	*/
